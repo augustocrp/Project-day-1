@@ -8,7 +8,7 @@ print("Começando...")
 print("Quem foi o primeiro Nazireu na história da biblia? \n (A) Abraão \n (B) Davi \n (C) Sansão \n (D) Samuel")
 answer_1 = input("Resposta: ")
 
-if answer_1 =="C"
+if answer_1 == "C":
     print("Correto!")
 else: 
     print("Incorreto!")
