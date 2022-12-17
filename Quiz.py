@@ -12,3 +12,11 @@ if answer_1 == "C":
     print("Correto!")
 else: 
     print("Incorreto!")
+
+print("Quem foi o homem que mais velho de toda a história da biblia? \n (A) Adão \n (B) Noé \n (C) Daniel \n (D) Matuzalem")
+answer_1 = input("Resposta: ")
+
+if answer_1 == "D":
+    print("Correto!")
+else: 
+    print("Incorreto!")
